@@ -1,0 +1,28 @@
+.container{
+    /* background-color: aqua; */
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.row{
+    /* background-color: aquamarine; */
+    /* height: 700px;
+    width: 1500px; */
+    display: flex;
+    margin-left: 20px;
+    margin-right: 20px;
+
+
+}
+
+.fill-category{
+    width: 500px;
+    height: 90px;
+}
+
+button{
+    height: 70px !important;
+    width: 80px;
+}
